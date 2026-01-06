@@ -10,7 +10,7 @@ const About: React.FC = () => {
         </h2>
         <div className="mt-4 w-24 h-1 bg-[#BFE8D5] mx-auto rounded-full"></div>
         <p className="mt-8 text-lg text-gray-600 leading-relaxed">
-          O Abraçamente é uma iniciativa social dedicada a oferecer cuidado, escuta ativa e suporte a famílias de baixa renda e pessoas em vulnerabilidade. Acreditamos na empatia como força transformadora: nosso objetivo é levar acolhimento, dignidade e esperança para quem precisa ser ouvido.
+          O Abraçamente é uma iniciativa social dedicada a oferecer cuidado, escuta ativa e suporte a famílias e pessoas em vulnerabilidade. Acreditamos na empatia como força transformadora: nosso objetivo é levar acolhimento, dignidade e esperança para quem precisa ser ouvido.
         </p>
       </div>
     </section>

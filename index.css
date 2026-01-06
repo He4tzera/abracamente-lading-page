@@ -1,0 +1,21 @@
+/* Scroll suave global */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Melhorias de performance para scroll */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+/* Transições suaves para elementos interativos */
+a, button {
+  transition: all 0.3s ease;
+}
+
