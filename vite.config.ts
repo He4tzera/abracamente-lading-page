@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: '/abracamente/',
+    base: '/abracamente-landing-page/',
 
     server: {
       port: 3000,
